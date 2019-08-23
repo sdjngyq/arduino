@@ -1,1 +1,2 @@
-# arduino
+2.4, 3.8, 3.2, 3.5, 3.95, 5,7 inch LCD
+HTTP://WWW.MCUFRIEND.COM
